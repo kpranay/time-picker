@@ -1,0 +1,8 @@
+<input
+  [(ngModel)]="time"
+  (ngModelChange)="onValueChange()"
+  (blur)="parseTheValue()"
+  type="text"
+  autocomplete="off"
+  [disabled]="disabled"
+/>

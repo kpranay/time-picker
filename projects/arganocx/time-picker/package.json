@@ -1,0 +1,13 @@
+{
+  "name": "@arganocx/time-picker",
+  "version": "0.0.5",
+  "peerDependencies": {
+    "@angular/common": "^10.2.4",
+    "@angular/core": "^10.2.4",
+    "@angular/forms": "~10.2.4",
+    "moment": "^2.30.1"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
